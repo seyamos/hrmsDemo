@@ -7,5 +7,6 @@ import seyamos.hrms.entities.concretes.JobPosition;
 public interface JobPositionService {
 	
 	List<JobPosition> getAll();
+	//updated
 
 }
